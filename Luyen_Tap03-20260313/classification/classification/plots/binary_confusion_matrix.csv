@@ -1,0 +1,3 @@
+,pred_healthy,pred_diseased
+true_healthy,100,0
+true_diseased,0,100
